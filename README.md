@@ -1,5 +1,5 @@
 <a align="center" href="#"><img src=".github/assets/ss1984.gif" alt="Буквально SS1984"></a>
-# <p align="center"> Добро пожаловать в репозиторий проекта SS1984!</p>
+# <p align="center"> Репозиторий SS1984 от Fosyka</p>
 
 <p align="center">
 	<a href="https://github.com/ss220-space/Paradise/actions?query=workflow%3ACI"><img src="https://github.com/ss220-space/Paradise/workflows/CI/badge.svg" alt="CI"></a>
